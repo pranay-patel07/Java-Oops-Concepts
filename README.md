@@ -40,11 +40,11 @@ OOPConcepts
 
 ```text
 ===== CLASS & OBJECT =====
-Name: Sruthi
+Name: Pranay
 Age: 21
 
 ===== ENCAPSULATION =====
-Name: Sruthi
+Name: Pranay
 Age: 21
 
 ===== INHERITANCE =====
