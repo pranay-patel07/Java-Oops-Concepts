@@ -67,4 +67,4 @@ Payment completed online
 
 ## Author
 
-**Karnam Sruthi**
+**Pranay Patel**
